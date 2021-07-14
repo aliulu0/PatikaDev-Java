@@ -6,5 +6,6 @@
 - [Pratik - KDV Tutarı Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/KDV%20Tutar%C4%B1%20Hesaplayan%20Program)
 - [Pratik - Üçgenin Alanını Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%9C%C3%A7genin%20Alan%C4%B1n%C4%B1%20Bulan%20Program)
 - [Pratik - Taksimetre Programı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Taksimetre%20Program%C4%B1)
+- [Pratik - Dairenin Alanını ve Çevresini Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Dairenin%20Alan%C4%B1n%C4%B1%20ve%20%C3%87evresini%20Hesaplayan%20Program)
  
  
