@@ -20,5 +20,6 @@
 - [Pratik - Burç Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Bur%C3%A7%20Bulan%20Program)
 - [Ödev - Uçak Bileti Fiyatı Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/U%C3%A7ak%20Bileti%20Fiyat%C4%B1%20Hesaplayan%20Program)
 - [Ödev - Çin Zodyağı Hesaplama](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%87in%20Zodya%C4%9F%C4%B1%20Hesaplama)
+- [Ödev - Artık Yıl Hesaplama](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Art%C4%B1k%20Y%C4%B1l%20Hesaplama)
  
  
