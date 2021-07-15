@@ -23,6 +23,7 @@
 - [Ödev - Artık Yıl Hesaplama](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Art%C4%B1k%20Y%C4%B1l%20Hesaplama)
 
 ## Döngüler
-- [Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Girilen%20Say%C4%B1ya%20Kadar%20Olan%20%C3%87ift%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
+- [Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Girilen%20Say%C4%B1ya%20Kadar%20Olan%20%C3%87ift%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
+- [Pratik - Tek Sayıların Toplamını Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Tek%20Say%C4%B1lar%C4%B1n%20Toplam%C4%B1n%C4%B1%20Bulan%20Program)
  
  
