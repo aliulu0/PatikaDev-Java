@@ -31,5 +31,6 @@
 - [Pratik - Kombinasyon Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kombinasyon%20Hesaplayan%20Program)
 - [Pratik - Üslü Sayı Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%9Csl%C3%BC%20Say%C4%B1%20Hesaplayan%20Program)
 - [Pratik - Bir Sayının Basamak Sayılarının Toplamını Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Bir%20Say%C4%B1n%C4%B1n%20Basamak%20Say%C4%B1lar%C4%B1n%C4%B1n%20Toplam%C4%B1n%C4%B1%20Hesaplayan%20Program)
+- [Pratik - Harmonik Seri Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Harmonik%20Seri%20Bulan%20Program)
  
  
