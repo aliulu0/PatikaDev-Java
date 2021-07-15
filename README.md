@@ -13,5 +13,6 @@
 ## Koşullu İfadeler ve Kod Blokları
 
 - [Pratik - Basit Hesap Makinesi Yapımı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Basit%20Hesap%20Makinesi%20Yap%C4%B1m%C4%B1)
+- [Pratik - Kullanıcı Girişi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kullan%C4%B1c%C4%B1%20Giri%C5%9Fi)
  
  
