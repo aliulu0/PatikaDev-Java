@@ -15,5 +15,6 @@
 - [Pratik - Basit Hesap Makinesi Yapımı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Basit%20Hesap%20Makinesi%20Yap%C4%B1m%C4%B1)
 - [Pratik - Kullanıcı Girişi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kullan%C4%B1c%C4%B1%20Giri%C5%9Fi)
 - [Pratik - Sınıfı Geçme Durumu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/S%C4%B1n%C4%B1f%C4%B1%20Ge%C3%A7me%20Durumu)
+- [Pratik - Hava Sıcaklığına Göre Etkinlik Önerme](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Hava%20S%C4%B1cakl%C4%B1%C4%9F%C4%B1na%20G%C3%B6re%20Etkinlik%20%C3%96nerme)
  
  
