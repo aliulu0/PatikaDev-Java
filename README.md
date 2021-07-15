@@ -1,4 +1,6 @@
-# PatikaDev - Java101
+#
+
+- atikaDev - Java101
 
 ## Temel Kavramlar ve Değişkenler
 
@@ -25,5 +27,6 @@
 ## Döngüler
 - [Pratik - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Girilen%20Say%C4%B1ya%20Kadar%20Olan%20%C3%87ift%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
 - [Pratik - Tek Sayıların Toplamını Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Tek%20Say%C4%B1lar%C4%B1n%20Toplam%C4%B1n%C4%B1%20Bulan%20Program)
+- [Pratik - Girilen Sayıdan Küçük 4'ün ve 5'in Kuvvetlerini Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Girilen%20Say%C4%B1dan%20K%C3%BC%C3%A7%C3%BCk%204'%C3%BCn%20ve%205'in%20Kuvvetlerini%20Bulan%20Program)
  
  
