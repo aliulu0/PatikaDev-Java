@@ -19,5 +19,6 @@
 - [Pratik - Sayıları Büyükten Küçüğe Sıralayan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Say%C4%B1lar%C4%B1%20B%C3%BCy%C3%BCkten%20K%C3%BC%C3%A7%C3%BC%C4%9Fe%20S%C4%B1ralayan%20Program)
 - [Pratik - Burç Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Bur%C3%A7%20Bulan%20Program)
 - [Ödev - Uçak Bileti Fiyatı Hesaplayan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/U%C3%A7ak%20Bileti%20Fiyat%C4%B1%20Hesaplayan%20Program)
+- [Ödev - Çin Zodyağı Hesaplama](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%87in%20Zodya%C4%9F%C4%B1%20Hesaplama)
  
  
