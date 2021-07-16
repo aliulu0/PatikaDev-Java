@@ -36,5 +36,7 @@
 - [Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Girilen%20Say%C4%B1lardan%20Min%20ve%20Max%20De%C4%9Ferleri%20Bulma)
 - [Ödev - Mükemmel Sayı Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/M%C3%BCkemmel%20Say%C4%B1%20Bulan%20Program)
 - [Ödev - Ters Üçgen Yapımı](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Ters%20%C3%9C%C3%A7gen%20Yap%C4%B1m%C4%B1)
+- [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/1-100%20Aras%C4%B1ndaki%20Asal%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
+- [Ödev - Fibonacci Serisi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Fibonacci%20Serisi)
  
  
