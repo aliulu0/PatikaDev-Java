@@ -1,6 +1,4 @@
-#
-
-- atikaDev - Java101
+# PatikaDev - Java101
 
 ## Temel Kavramlar ve Değişkenler
 
@@ -34,5 +32,6 @@
 - [Pratik - Harmonik Seri Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Harmonik%20Seri%20Bulan%20Program)
 - [Pratik - Yıldızlar ile Üçgen Yapımı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Y%C4%B1ld%C4%B1zlar%20ile%20%C3%9C%C3%A7gen%20Yap%C4%B1m%C4%B1)
 - [Pratik - ATM Projesi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/ATM%20Projesi)
+- [Pratik - EBOB ve EKOK Bulan Program](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/EBOB%20ve%20EKOK%20Bulan%20Program)
  
  
