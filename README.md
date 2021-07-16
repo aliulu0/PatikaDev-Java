@@ -1,6 +1,4 @@
-#
-
-- atikaDev - Java101
+# PatikaDev - Java101
 
 ## Temel Kavramlar ve Değişkenler
 
