@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class Main {
     static boolean isPolindrom(int number){
         int temp = number, reverseNumber = 0, lastNumber;
