@@ -38,5 +38,8 @@
 - [Ödev - Ters Üçgen Yapımı](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Ters%20%C3%9C%C3%A7gen%20Yap%C4%B1m%C4%B1)
 - [Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/1-100%20Aras%C4%B1ndaki%20Asal%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
 - [Ödev - Fibonacci Serisi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Fibonacci%20Serisi)
+
+## Metotlar
+- [Pratik - Palindrom Sayılar](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Palindrom%20Say%C4%B1lar)
  
  
