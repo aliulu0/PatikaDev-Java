@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class Main {
     static int fib(int n){
         if ((n == 1) || (n == 2)){
