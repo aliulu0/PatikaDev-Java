@@ -41,5 +41,6 @@
 
 ## Metotlar
 - [Pratik - Palindrom Sayılar](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Palindrom%20Say%C4%B1lar)
+- [Pratik - Recursive ile Fibonacci Serisi Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Recursive%20Fibonacci%20Serisi%20Bulan%20Program)
  
  
