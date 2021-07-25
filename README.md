@@ -43,5 +43,6 @@
 - [Pratik - Palindrom Sayılar](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Palindrom%20Say%C4%B1lar)
 - [Pratik - Recursive ile Fibonacci Serisi Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Recursive%20Fibonacci%20Serisi%20Bulan%20Program)
 - [Pratik - Gelişmiş Hesap Makinesi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Geli%C5%9Fmi%C5%9F%20Hesap%20Makinesi)
+- [Ödev - Üs Hesabı Yapan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%9Cs%20Hesab%C4%B1%20Yapan%20Program)
  
  
