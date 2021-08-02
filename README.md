@@ -48,6 +48,6 @@
 - [Ödev - Desene Göre Metot Oluşturma](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Desene%20G%C3%B6re%20Metot%20Olu%C5%9Fturma)
 
 ## Sınıflar
-- [Pratik - Öğrenci Bilgi Sistemi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%96%C4%9Frenci%20Bilgi%20Sistemi)
+- [Pratik - Öğrenci Bilgi Sistemi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%96%C4%9Frenci%20Bilgi%20Sistemi)
  
  
