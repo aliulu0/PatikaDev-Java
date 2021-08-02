@@ -46,5 +46,8 @@
 - [Ödev - Üs Hesabı Yapan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%9Cs%20Hesab%C4%B1%20Yapan%20Program)
 - [Ödev - Asal Sayı Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Asal%20Say%C4%B1%20Bulan%20Program)
 - [Ödev - Desene Göre Metot Oluşturma](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Desene%20G%C3%B6re%20Metot%20Olu%C5%9Fturma)
+
+## Sınıflar
+- [Pratik - Öğrenci Bilgi Sistemi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/%C3%96%C4%9Frenci%20Bilgi%20Sistemi)
  
  
