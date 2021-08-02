@@ -49,5 +49,6 @@
 
 ## Sınıflar
 - [Pratik - Öğrenci Bilgi Sistemi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%96%C4%9Frenci%20Bilgi%20Sistemi)
+- [Pratik - Boks Maçı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Boks%20Ma%C3%A7%C4%B1)
  
  
