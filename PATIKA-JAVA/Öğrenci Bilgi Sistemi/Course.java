@@ -1,31 +1,30 @@
 public class Course {
-    Teacher courseTeacher;
+    Teacher teacher;
     String name;
     String code;
     String prefix;
     int note;
+    int verbalNote;
 
-    public Course(String name, String code, String prefix) {
+    public Course(String name, String code, String prefix, Teacher teacher) {
+
         this.name = name;
         this.code = code;
         this.prefix = prefix;
         this.note = 0;
+        this.verbalNote=0;
+        this.teacher = teacher;
     }
 
-    public void addTeacher(Teacher t) {
-        if (this.prefix.equals(t.branch)) {
-            this.courseTeacher = t;
-            System.out.println("İşlem başarılı");
-        } else {
-            System.out.println(t.name + " Akademisyeni bu dersi veremez.");
+    void addTeacher(Teacher teacher) {
+        if(teacher.branch.equals(this.prefix)) {
+            this.teacher = teacher;
         }
+
     }
 
-    public void printTeacher() {
-        if (courseTeacher != null) {
-            System.out.println(this.name + " dersinin Akademisyeni : " + courseTeacher.name);
-        } else {
-            System.out.println(this.name + " dersine Akademisyen atanmamıştır.");
-        }
+    void printTeacherInfo() {
+        this.teacher.print();
     }
+
 }
