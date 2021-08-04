@@ -52,10 +52,10 @@
 - [Pratik - Boks Maçı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Boks%20Ma%C3%A7%C4%B1)
 - [Ödev - Maaş Hesaplayıcı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Maa%C5%9F%20Hesaplay%C4%B1c%C4%B1)
 
-## Sınıflar
+## Diziler
 - [Pratik - Dizideki Elemanların Ortalamasını Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Dizideki%20Elemanlar%C4%B1n%20Ortalamas%C4%B1n%C4%B1%20Bulan%20Program)
 - [Pratik - Dizideki Maksimum ve Minimum Değerleri Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Dizideki%20Maksimum%20ve%20Minimum%20De%C4%9Ferleri%20Bulan%20Program)
 - [Pratik - Çok Boyutlu Diziler ile A Harfi Yazdıran Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%87ok%20Boyutlu%20Diziler%20ile%20A%20Harfi%20Yazd%C4%B1ran%20Program)
-- [Pratik - Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Dizideki%20Tekrar%20Eden%20Say%C4%B1lar%C4%B1%20Bulan%20Program)
+- [Ödev - Dizideki Elemanları Sıralama](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Dizideki%20Elemanlar%C4%B1%20S%C4%B1ralama)
  
  
