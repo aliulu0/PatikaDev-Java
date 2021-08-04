@@ -51,5 +51,8 @@
 - [Pratik - Öğrenci Bilgi Sistemi](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/%C3%96%C4%9Frenci%20Bilgi%20Sistemi)
 - [Pratik - Boks Maçı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Boks%20Ma%C3%A7%C4%B1)
 - [Ödev - Maaş Hesaplayıcı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Maa%C5%9F%20Hesaplay%C4%B1c%C4%B1)
+
+## Sınıflar
+- [Pratik - Dizideki Elemanların Ortalamasını Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Dizideki%20Elemanlar%C4%B1n%20Ortalamas%C4%B1n%C4%B1%20Bulan%20Program/Main.java)
  
  
