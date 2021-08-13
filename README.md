@@ -62,4 +62,5 @@
 
 ## Diğer Konular
 - [Pratik - Sayı Tahmin Oyunu](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Say%C4%B1%20Tahmin%20Oyunu)
+- [Pratik - Palindromik Kelimleri Bulan Program](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Palindromik%20Kelimleri%20Bulan%20Program)
  
