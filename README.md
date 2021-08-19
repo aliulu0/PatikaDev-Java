@@ -68,6 +68,10 @@
 -[Mayın Tarlası Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/May%C4%B1n%20Tarlas%C4%B1%20Oyunu)
 
 # PatikaDev - Java 102
+
 ## Pratik
 -[Macera Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Macera%20Oyunu)
+
+## Nested Sınıflar,Generic Yapılar
+- [Ödev - Liste Sınıfı Yapmak](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Liste%20S%C4%B1n%C4%B1f%C4%B1%20Yapmak)
  
