@@ -1,4 +1,4 @@
-# PatikaDev - Java101
+# PatikaDev - Java 101
 
 ## Temel Kavramlar ve Değişkenler
 
@@ -66,4 +66,8 @@
 
 ## Bitirme Projesi
 -[Mayın Tarlası Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/May%C4%B1n%20Tarlas%C4%B1%20Oyunu)
+
+# PatikaDev - Java 102
+## Pratik
+-[Macera Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Macera%20Oyunu)
  
