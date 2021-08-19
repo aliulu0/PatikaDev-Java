@@ -66,4 +66,8 @@
 
 ## Bitirme Projesi
 -[Mayın Tarlası Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/May%C4%B1n%20Tarlas%C4%B1%20Oyunu)
+
+# PatikaDev - Java101
+## Bitirme Projesi
+-[Macera Oyunu](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Macera%20Oyunu)
  
