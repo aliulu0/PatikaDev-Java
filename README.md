@@ -74,4 +74,7 @@
 
 ## Nested Sınıflar,Generic Yapılar
 - [Ödev - Liste Sınıfı Yapmak](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Liste%20S%C4%B1n%C4%B1f%C4%B1%20Yapmak)
+
+## Collection ve Map Interface
+- [Ödev - Kitap Sıralayıcı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kitap%20S%C4%B1ralay%C4%B1c%C4%B1)
  
