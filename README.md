@@ -78,4 +78,7 @@
 ## Collection ve Map Interface
 - [Ödev - Kitap Sıralayıcı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kitap%20S%C4%B1ralay%C4%B1c%C4%B1)
 - [Ödev - Fikstür Oluşturucu](https://github.com/aliulu0/PatikaDev-Java/blob/main/PATIKA-JAVA/Fikst%C3%BCr%20Olu%C5%9Fturucu)
+
+## Ödev 
+- [Ödev - Patika Store](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Patika%20Store)
  
