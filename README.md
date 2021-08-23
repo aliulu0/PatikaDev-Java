@@ -81,4 +81,8 @@
 
 ## Ödev 
 - [Ödev - Patika Store](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Patika%20Store)
+
+## MultiTreads ve Concurrency
+
+- [Ödev - Threadlerin Yarışı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Threadlerin%20Yar%C4%B1%C5%9F%C4%B1)
  
