@@ -81,8 +81,12 @@
 
 ## Ödev 
 - [Ödev - Patika Store](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Patika%20Store)
+- [Ödev - Sigorta Yönetim Sistemi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Sigorta%20Y%C3%B6netim%20Sistemi)
 
 ## MultiTreads ve Concurrency
-
 - [Ödev - Threadlerin Yarışı](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Threadlerin%20Yar%C4%B1%C5%9F%C4%B1)
+ 
+## Diğer Faydalı Konular
+- [Ödev - Kitap Listesi](https://github.com/aliulu0/PatikaDev-Java/tree/main/PATIKA-JAVA/Kitap%20Listesi)
+
  
